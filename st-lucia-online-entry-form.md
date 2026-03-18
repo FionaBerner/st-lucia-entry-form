@@ -17,7 +17,7 @@ Saint Lucia allows many nationalities to enter visa-free by completing the **St.
 ## Keep your confirmation ready
 Immigration officers may request to view your confirmation upon arrival. Keep it accessible on your phone or printed.
 
-## Related topics
+### Related topics:
 - [Plan Your Visit](plan-your-visit.md)
 - [St. Lucia With Kids](st-lucia-with-kids.md)
 - [Caribbean Islands Hopping](caribbean-islands-hopping.md)
