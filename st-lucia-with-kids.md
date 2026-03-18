@@ -49,7 +49,7 @@ St. Lucia allows entry for dogs, but regulations apply:
 - Airlines have their own pet travel rules, so check before booking.
 
 ## Important Reminder
-All foreign visitors—including families—must complete the **mandatory [online Entry Form for Saint Lucia]**(https://stluciaentryform.com/) before traveling. This online form is required for smooth, visa‑free entry into the country.
+All foreign visitors—including families—must complete the mandatory [online Entry Form for Saint Lucia](https://stluciaentryform.com/) before traveling. This online form is required for smooth, visa‑free entry into the country.
 
 ### Related topics:
 - [St. Lucia Online Entry Form](st-lucia-online-entry-form.md)
