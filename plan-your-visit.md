@@ -63,7 +63,7 @@ Transportation options include:
 - **Marine Rescue:** Coast Guard via 911  
 
 ## Important Reminder
-Foreign visitors must complete the [**mandatory St. Lucia Entry Form**]( before traveling. This online form is required for smooth, visa‑free entry into the country.
+Foreign visitors must complete the [**mandatory St. Lucia Entry Form**](https://stluciaentryform.com/) before traveling. This online form is required for smooth, visa‑free entry into the country.
 
 ### Related Topics:
 - [St. Lucia Online Entry Form](st-lucia-online-entry-form.md)
