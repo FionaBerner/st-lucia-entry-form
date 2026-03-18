@@ -21,10 +21,10 @@ Travelers visiting Saint Lucia can enjoy visa-free entry by completing a simple 
 This repository provides practical travel insights and destination-specific guidance, starting with a clear explanation of how to complete the St. Lucia Entry Form for visa-free travel. The goal is to help travelers prepare efficiently and enjoy a smooth arrival in Saint Lucia and across the Caribbean.
 
 ## Related topics
-[St Lucia Entry Form](st-lucia-entry-form.md) • [Plan Your Visit](plan-your-visit.md) • [St. Lucia With Kids](st-lucia-with-kids.md) • [Caribbean Islands Hopping](caribbean-islands-hopping.md)
+[St Lucia Online Entry Form](st-lucia-online-entry-form.md) • [Plan Your Visit](plan-your-visit.md) • [St. Lucia With Kids](st-lucia-with-kids.md) • [Caribbean Islands Hopping](caribbean-islands-hopping.md)
 
 ## Repository topics
-st-lucia-entry-form, plan-your-visit, st-lucia-with-kids, caribbean-islands-hopping
+st-lucia-online-entry-form, plan-your-visit, st-lucia-with-kids, caribbean-islands-hopping
 
 
 ## Repository tagline
