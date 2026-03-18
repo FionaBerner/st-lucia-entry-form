@@ -1,4 +1,4 @@
-# 🧒 Traveling to St. Lucia With Kids
+# 👨🏼‍👦🏼‍👦🏼 Traveling to St. Lucia With Kids
 
 St. Lucia is a family‑friendly destination with calm beaches, nature activities, and resorts designed for children. This guide covers practical, verified information for traveling with babies, kids, and teenagers.
 
